@@ -1,0 +1,17 @@
+bmp180 longer version:
+https://www.hackster.io/weargenius/bmp180-interfacing-with-arduino-in-depth-68595b
+adafruit bmp lib:
+https://github.com/adafruit/Adafruit-BMP085-Library
+adafruit sensor lib:
+https://github.com/adafruit/Adafruit_Sensor
+
+http://www.esp8266learning.com/wemos-mini-bmp180-sensor-example.php
+
+dht11
+https://www.mouser.com/ds/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf
+
+http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
+
+BH1750
+https://github.com/Genotronex/BH1750FVI_Master
+

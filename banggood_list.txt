@@ -1,0 +1,10 @@
+1.85			Geekcreit® ATmega328P Nano V3
+2.45			Drillpro 50PCS 1/1.5/2/2.5/3mm HSS Titanium Coated Twist
+6.19			Geekcreit® ESP32 Development Board WiFi+Bluetooth Ultra Low Power Consumption 
+2.65			WeMos® D1 mini V2.2.0 WIFI Internet
+5.30			CJMCU 64 Bit WS2812 5050 RGB LED Driver Development Board 
+8.32			Geekcreit® 40pcs FR-4 2.54mm Double Side Prototype
+6.21			Geekcreit® 1350pcs 135 Value 1/4W Metal Film Resistor Assortment Kit
+2.41			300Pcs 1% 1/4W Metal Film Resistor Resistance 30 Values Assortment Kit 
+2.10			5V/3.3V 8 Channel IIC UART SPI TTL Logic Level Converter Bi-Directional Module 
+3.81			3pcs 6DOF MPU-6050 3 Axis Gyro With Accelerometer Sensor Controller Module For Arduino
